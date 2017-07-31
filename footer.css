@@ -1,0 +1,14 @@
+footer{
+    background-color: #9ed4e1;
+    padding: 20px;
+    color: #fff;
+}
+
+#image{
+    background-image: url("logo_jrn.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 10px;
+    height: 200px;
+}
+
